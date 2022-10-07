@@ -1,0 +1,84 @@
+/* SELETTORE{
+  proprieta: valore;
+  proprieta: valore;
+} */
+
+body{
+  font-family: 'Kanit', sans-serif;
+  background-image: url(background.jpg);
+  background-size: 100%;
+  }
+
+.box{
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.6);
+  width: 700px;
+  margin-left: 350px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.total{
+  text-align: center;
+  width: 500px;
+  margin: 25px 100px 100px 100px;
+  }
+
+.logo{
+  width: 250px;
+}
+
+.logotext{
+  font-size: 30px;
+  display: block;
+  color: rgb(73, 240, 47);
+  }
+
+
+nav{
+  background-color: rgb(73, 240, 47);
+  padding: 6px;
+  margin: 5px;
+}
+
+main{
+  text-align: left;
+}
+
+
+.nomemono{
+  color: white;
+  font-size: 22px;
+}
+
+.posizione{
+  display: block;
+  font-size: 16px;
+  color: white;
+}
+
+.batteria{
+  font-size: 16px;
+  color: white;
+}
+
+.Gino{
+   background-color: yellow;
+   border-radius: 15px;
+   height: 20px;
+   width: 220px;
+}
+
+.Lore{
+   background-color: rgb(73, 240, 47);
+   border-radius: 15px;
+   height: 20px;
+   width: 400px;
+}
+
+.Carlino{
+   background-color: red;
+   border-radius: 15px;
+   height: 20px;
+   width: 100px;
+}
